@@ -4,10 +4,9 @@ body {
   background-attachment: fixed;
   background-size:  100% 100%;
   background-color: LightGreen;
-  color: green;
 }
 h1 {
-  color: red;
+    color: green;
  
 }
 h2{
