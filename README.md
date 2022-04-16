@@ -1,1 +1,1 @@
-# T-o-trang-web-Thanh-Tr-c
+# Thanh truc
